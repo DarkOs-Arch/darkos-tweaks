@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-pkexec '/usr/share/darkos-tweaks/darkos-darkos-tweaks.py'
+pkexec '/usr/share/darkos-tweaks/darkos-tweaks.py'
